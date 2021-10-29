@@ -1,0 +1,47 @@
+img {
+    height:500px;
+    width:700px;
+}
+h2 {
+    font-family:Comic Sans MS;
+    font-size:35px;
+}
+h2:hover {
+    text-decoration:underline;
+    font-size:45px;
+}
+#i {
+    background:linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+body {
+}
+p {
+    font-family:Comic Sans MS;
+    font-size:15px;
+}
+#About {
+    font-family: 'Cinzel Decorative', cursive;
+
+    padding: 50px;
+    text-align: center; 
+}
+.links {
+    float:right;
+    padding-left:30px;
+    padding-right:50px;
+    padding-top:40px;
+    list-style:none;
+    font-family:Comic Sans MS;
+    font-size:25px;
+}
+#Tiq {
+    background-color:bisque;
+}
+h3 {
+    font-family:Times New Roman;
+    font-size:50px;
+}
+#y {
+    font-family:serif;
+    font-size:40px; 
+}
